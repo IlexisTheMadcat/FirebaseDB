@@ -1,5 +1,6 @@
-# FirebaseDB
+# FirebaseDB 0.5
 Create a simple CRUD operations helper for Google Firebase Realtime Databases. \
+Currently incompatible with Cloud Firestore. \
 **Initiate with these arguments:** \
 `databaseURL` - Works with Realtime Databases. Open it and copy its link. \
 `fp_accountkey_json` - Fetch this file from the Project settings: \
