@@ -1,4 +1,4 @@
-# FirebaseDB 0.5
+# FirebaseDB
 Create a simple CRUD operations helper for Google Firebase Realtime Databases. \
 Currently incompatible with Cloud Firestore. 
 
